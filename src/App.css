@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+span {
+  display: inline-block;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 5px;
+}
+
+.list-wrapper {
+  border: 1px solid #ccc;
+  margin: auto;
+  width: 550px;
+}
+
+.search-row {
+  padding: 5px;
+  background-color: aliceblue;
+  max-width: 180px;
+  margin: auto;
+}

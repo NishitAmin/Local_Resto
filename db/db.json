@@ -1,0 +1,51 @@
+{
+  "login": [
+    {
+      "username": "amin",
+      "password": "nishit",
+      "id": 1
+    },
+    {
+      "username": "patel",
+      "password": "dhruvil",
+      "id": 2
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "McDonalds",
+      "address": "Brampton",
+      "rating": "4.7",
+      "email": "mcdonalds@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Wendys",
+      "address": "Mississauga",
+      "rating": "4.6",
+      "email": "britanniawen@gmail.com"
+    },
+    {
+      "name": "KFC",
+      "address": "Brampton",
+      "rating": "4.2",
+      "email": "kfc123@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Pita Pit",
+      "address": "Mississauga",
+      "rating": "4.6",
+      "email": "pitapit@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Burger King",
+      "address": "Toronto",
+      "rating": "4.4",
+      "email": "burgerking@gmail.com",
+      "id": 5
+    }
+  ]
+}
